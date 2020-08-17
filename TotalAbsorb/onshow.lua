@@ -1,0 +1,1 @@
+WA_TA_SHOW_PERCENT = true

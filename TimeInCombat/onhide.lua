@@ -1,0 +1,2 @@
+WA_TIC_ACTIVE = false
+WA_TIC_START_TIME = 0
